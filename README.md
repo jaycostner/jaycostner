@@ -1,7 +1,7 @@
 
 
 
-- 🏢 I’m currently working for Agcor Steel as a  Software Engineer.
+- 🏢 I’m currently working for Agcor  as a  Software Engineer.
 - 🏫 I’m currently learning more about Java .
 - 📫 How to reach me: instagram-jaycostner
 - 😄 Pronouns: He/Him
