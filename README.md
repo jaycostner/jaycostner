@@ -1,10 +1,10 @@
 
 
 
-- 🏢 I’m currently working for Agcor  as a  IT Manager / Software Engineer.
-- 🏫 I’m currently learning more about Full Stack Development.
+- 🏢 I’m currently own Gr8Minds Digital an IT/Software Company
+- 🏫 I’m currently currently working on crazy random ideas at 2am!!
 - 📫 How to reach me: instagram-jaycostner
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i like playing Baseball 
-- 🙌🏼 2023 Goals: Personal & Professional Growth.
+- 🙌🏼 2024 Goals: Expand my business internationally.
 
