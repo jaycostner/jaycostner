@@ -1,8 +1,10 @@
-Hi there! I'm James Costner, a passionate self-taught software engineer with a knack for creating innovative solutions. My journey in the tech world has equipped me with a diverse skill set, ranging from building dynamic web applications with Next.js to crafting robust desktop applications in C#.
+ Hi there! I'm James Costner, a passionate self-taught software engineer with a knack for creating innovative solutions. My journey in the tech world has equipped me with a diverse skill set, ranging from building dynamic web applications with Next.js to crafting robust desktop applications in C#.
 
 💻 Web Development: I specialize in modern web frameworks, with a strong focus on Next.js. I love leveraging its capabilities to create seamless, high-performance web applications that deliver exceptional user experiences.
 
-🖥️ Desktop Applications: My expertise extends to desktop application development, where I utilize C# to build powerful, user-friendly software solutions including ERP solutions.
+🖥️ Desktop Applications: My expertise extends to desktop application development, where I utilize C# to build powerful, user-friendly software solutions.
+
+📱 iOS Development: I'm also deeply involved in iOS development, creating sleek and functional mobile applications that offer a great user experience.
 
 🔧 Systems Administration & Integrations: With a deep understanding of systems administration and system integrations, I ensure smooth and efficient operations across various platforms and technologies.
 
